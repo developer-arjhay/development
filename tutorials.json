@@ -5,5 +5,12 @@
 		"description": "Welcome to my app",
         "date": "March 23, 2016",
         "createdBy": "Arjhay Delos Santos"
-    }
+    },
+	{
+		"image": "https://raw.githubusercontent.com/developer-arjhay/development/master/images/sampleimage.png",
+        "title": "Th2",
+		"description": "Welcome to my app",
+        "date": "March 23, 2016",
+        "createdBy": "Arjhay Delos Santos"
+	}
 ]
