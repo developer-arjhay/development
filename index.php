@@ -1,13 +1,13 @@
 {
 	"news": [
 		{
-			"image": "",
+			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/02/galaxy-note-5-home-screen-full.jpg?itok=RKNn0cc0",
 			"title": "Sprint kicks off Marshmallow rollout for the Galaxy Note 5 [Update: Note 4 too]",
-			"description": "Sprint has kicked off the Marshmallow rollout for the Samsung Galaxy Note 5. While this update bumps the phablet up to Android 6.0, we're also looking at a new version of TouchWiz and more. It's quite the changelog so if you're unprepared for Marshmallow, be ready for a revamped experience on your Note.<br><br><b>Update:</b> We've been made aware of the same update hitting the Galaxy Note 4. Hit us up in the comments if you've also received the update.<br><br><img src=http://www.androidcentral.com/sites/androidcentral.com/files/styles/medium/public/article_images/2016/03/sprint-note-5-marshmallow-screen.jpg?itok=dTYyRuZs",
-			"date": "",
-			"createdBy": "",
-			"sources": "",
-			"avatar": ""
+			"description": "Sprint has kicked off the Marshmallow rollout for the Samsung Galaxy Note 5. While this update bumps the phablet up to Android 6.0, we're also looking at a new version of TouchWiz and more. It's quite the changelog so if you're unprepared for Marshmallow, be ready for a revamped experience on your Note.<br><br>Fear not if you haven't been notified on the Note 5 just yet as Marshmallow should hit the device soon. You can check manually by heading into the settings area.",
+			"date": "March 24, 2016",
+			"createdBy": "Arjhay Delos Santos",
+			"sources": "http://www.androidcentral.com/sprint-rolling-out-marshmallow-galaxy-note-5",
+			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
 		},
 		{
 			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2015/07/samsung-ces15.jpg?itok=bsnAFJSy",
