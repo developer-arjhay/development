@@ -17,15 +17,6 @@
 			"createdBy": "Arjhay Delos Santos",
 			"sources": "http://www.androidauthority.com/google-search-getting-new-voice-681707/",
 			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
-		},
-		{
-			"image": "http://rack.3.mshcdn.com/media/ZgkyMDE2LzAzLzIzLzBiL0dvb2dsZV9OZXh1LmE1Y2FiLmpwZwpwCXRodW1iCTk1MHg1MzQjCmUJanBn/fa5e1a62/c35/Google_Nexus_9_Tablet-4.jpg",
-			"title": "Google's Android N preview has a hidden 'Night Mode' for nighttime viewing",
-			"description": "iOS users finally have the long-awaited Night Shift feature,",
-			"date": "March 22, 2016",
-			"createdBy": "Arjhay Delos Santos",
-			"sources": "http://mashable.com/2016/03/22/android-n-night-mode/#yThb4uzhYuq4",
-			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
 		}
 	]
 }
