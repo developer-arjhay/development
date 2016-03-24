@@ -1,6 +1,15 @@
 {
 	"news": [
 		{
+			"image": "",
+			"title": "Sprint kicks off Marshmallow rollout for the Galaxy Note 5 [Update: Note 4 too]",
+			"description": "Sprint has kicked off the Marshmallow rollout for the Samsung Galaxy Note 5. While this update bumps the phablet up to Android 6.0, we're also looking at a new version of TouchWiz and more. It's quite the changelog so if you're unprepared for Marshmallow, be ready for a revamped experience on your Note.<br><br><b>Update:</b> We've been made aware of the same update hitting the Galaxy Note 4. Hit us up in the comments if you've also received the update.<br><br><img src=http://www.androidcentral.com/sites/androidcentral.com/files/styles/medium/public/article_images/2016/03/sprint-note-5-marshmallow-screen.jpg?itok=dTYyRuZs",
+			"date": "",
+			"createdBy": "",
+			"sources": "",
+			"avatar": ""
+		},
+		{
 			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2015/07/samsung-ces15.jpg?itok=bsnAFJSy",
         		"title": "Samsung wants to act more like a startup",
 			"description": "Samsung is looking to reform its working culture in a bid to foster innovation. With the smartphone segment plateauing, the South Korean manufacturer has announced that it will embrace startup culture, eschewing the top-down hierarchy it currently follows.<br><br>In a statement to Reuters, Samsung said:<br><br>We aim to reform our internal culture, execute as quickly as a startup company and push towards open communication and continuously innovate.<br><br>Samsung also mentions that the move will foster a dialogue between division heads and employees, as well as cutting down on internal meetings, simplifying reporting procedures, and creating better work-life balance for employees. However, it may take some time for the manufacturer — which employs over 300,000 people worldwide — to make tangible strides in this direction.<br><br>In the meantime, Samsung has launched an in-house incubator that lets employees <b>nurture their own creative business ideas</b>. Called Creative Lab, the division is responsible for products such as rink, a hand-motion VR controller that can be used with the Gear VR. More recently, C-Lab came up with the Entrim 4D headphones, which give you a sense of motion while viewing VR content by delivering electric signals to your inner ear.",
