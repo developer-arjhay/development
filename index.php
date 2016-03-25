@@ -1,6 +1,15 @@
 {
 	"news": [
 		{
+			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/01/snapchat-nexus-6p-lohin-hero.jpg?itok=PfBgKANg",
+			"title": "Snapchat reportedly acquires Bitstrips for around $100 million",
+			"description": "Snapchat has reportedly agreed to acquire Bitstrips, the company behind the popular Bitmoji mobile app. The news, which has yet to be confirmed by either company, comes from Fortune:<br><br><q>Snapchat has agreed to acquire Bitstrips, the Toronto-based maker of personalized emojis known as bitmojis, Fortune has learned from multiple sources.</q><br><br>The report goes on to note the deal is valued at around $100 million.<br><br>If true, Snapchat's motivations behind the reported acquisition remain unclear. However, the company has made a number of moves over the past year towards giving users more ways to customize their snaps with custom filters and the like. It's not hard to imagine a scenario wherein Bitstrips' expertise with helping users craft custom cartoon avatars would come in handy for Snapchat.",
+			"date": "March 24, 2016",
+			"createdBy": "Arjhay Delos Santos",
+			"sources": "http://www.androidcentral.com/snapchat-reportedly-acquires-bitstrips-around-100-million",
+			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
+		},
+		{
 			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/03/color-effex-4-2.jpg?itok=YxiZWbxv",
 			"title": "Google's Nik Collection of desktop photo editing plug-ins is now free",
 			"description": "Google has announced that its Nik Collection of photo editing plug-ins are now available for free. Google says that the decision to make the collection free came about as a result of the company shifting focus to its set of mobile photo editing tools:<br><br><q>Photo enthusiasts all over the world use the Nik Collection to get the best out of their images every day. As we continue to focus our long-term investments in building incredible photo editing tools for mobile, including Google Photos and Snapseed, we've decided to make the Nik Collection desktop suite available for free, so that now anyone can use it.</q><br><br>You may recall, the collection of desktop photo editing plug-ins came under Google's purview when the search giant acquired Snapseed developer Nik Software in 2012. In all, it includes seven plug-ins for desktop programs like Photoshop, Lightroom and Aperture.<br><br>For those who purchased the plug-ins prior to today, Google says that it will automatically start issuing refunds in the coming days. In the meantime, you can check out and download the full collection for free now.</q>",
