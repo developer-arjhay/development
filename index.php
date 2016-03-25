@@ -6,7 +6,7 @@
 			"description": "It's Good Friday and that means we need some sweet deals to go with today's sunshine. Cue Ebuyer with the Honor 5X, which is available today for just £149.99. It's a solid smartphone for the price and is well worth checking out if you're seeking a new handset.<br><br>To remind you of included specifications, we're looking at a 5.5-inch Full HD display, Snapdragon 615 1.5GHz processor, 13MP main shooter (with 5MP front-facing selfie machine), as well as 2GB of RAM and 16GB of internal storage (with MicroSD expansion). The promotion saves you a good £40 off the original listing price, with silver, grey and gold available.",
 			"date": "March 25, 2016",
 			"createdBy": "Arjhay Delos Santos",
-			"sources": "http://www.androidcentral.com/honor-5x-yours-just-149-today-only",
+			"sources": "",
 			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
 		},
 		{
