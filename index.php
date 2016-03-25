@@ -1,7 +1,7 @@
 {
 	"news": [
 		{
-			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/02/honor5x-london-8_0.jpg?itok=X0-5DcTI",
+			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/02/honor5x-london-8_0.jpg",
 			"title": "The Honor 5X is yours for just £149.99 today only",
 			"description": "It's Good Friday and that means we need some sweet deals to go with today's sunshine. Cue Ebuyer with the Honor 5X, which is available today for just £149.99. It's a solid smartphone for the price and is well worth checking out if you're seeking a new handset.<br><br>To remind you of included specifications, we're looking at a 5.5-inch Full HD display, Snapdragon 615 1.5GHz processor, 13MP main shooter (with 5MP front-facing selfie machine), as well as 2GB of RAM and 16GB of internal storage (with MicroSD expansion). The promotion saves you a good £40 off the original listing price, with silver, grey and gold available.",
 			"date": "March 25, 2016",
@@ -19,7 +19,7 @@
 			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
 		},
 		{
-			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/01/snapchat-nexus-6p-lohin-hero.jpg?itok=PfBgKANg",
+			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/01/snapchat-nexus-6p-lohin-hero.jpg",
 			"title": "Snapchat reportedly acquires Bitstrips for around $100 million",
 			"description": "Snapchat has reportedly agreed to acquire Bitstrips, the company behind the popular Bitmoji mobile app. The news, which has yet to be confirmed by either company, comes from Fortune:<br><br><q>Snapchat has agreed to acquire Bitstrips, the Toronto-based maker of personalized emojis known as bitmojis, Fortune has learned from multiple sources.</q><br><br>The report goes on to note the deal is valued at around $100 million.<br><br>If true, Snapchat's motivations behind the reported acquisition remain unclear. However, the company has made a number of moves over the past year towards giving users more ways to customize their snaps with custom filters and the like. It's not hard to imagine a scenario wherein Bitstrips' expertise with helping users craft custom cartoon avatars would come in handy for Snapchat.",
 			"date": "March 24, 2016",
@@ -28,7 +28,7 @@
 			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
 		},
 		{
-			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/03/color-effex-4-2.jpg?itok=YxiZWbxv",
+			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/03/color-effex-4-2.jpg",
 			"title": "Google's Nik Collection of desktop photo editing plug-ins is now free",
 			"description": "Google has announced that its Nik Collection of photo editing plug-ins are now available for free. Google says that the decision to make the collection free came about as a result of the company shifting focus to its set of mobile photo editing tools:<br><br><q>Photo enthusiasts all over the world use the Nik Collection to get the best out of their images every day. As we continue to focus our long-term investments in building incredible photo editing tools for mobile, including Google Photos and Snapseed, we've decided to make the Nik Collection desktop suite available for free, so that now anyone can use it.</q><br><br>You may recall, the collection of desktop photo editing plug-ins came under Google's purview when the search giant acquired Snapseed developer Nik Software in 2012. In all, it includes seven plug-ins for desktop programs like Photoshop, Lightroom and Aperture.<br><br>For those who purchased the plug-ins prior to today, Google says that it will automatically start issuing refunds in the coming days. In the meantime, you can check out and download the full collection for free now.</q>",
 			"date": "March 24, 2016",
@@ -37,7 +37,7 @@
 			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
 		},
 		{
-			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/02/galaxy-note-5-home-screen-full.jpg?itok=RKNn0cc0",
+			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/02/galaxy-note-5-home-screen-full.jpg",
 			"title": "Sprint kicks off Marshmallow rollout for the Galaxy Note 5 [Update: Note 4 too]",
 			"description": "Sprint has kicked off the Marshmallow rollout for the Samsung Galaxy Note 5. While this update bumps the phablet up to Android 6.0, we're also looking at a new version of TouchWiz and more. It's quite the changelog so if you're unprepared for Marshmallow, be ready for a revamped experience on your Note.<br><br>Fear not if you haven't been notified on the Note 5 just yet as Marshmallow should hit the device soon. You can check manually by heading into the settings area.",
 			"date": "March 24, 2016",
@@ -46,7 +46,7 @@
 			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
 		},
 		{
-			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2015/07/samsung-ces15.jpg?itok=bsnAFJSy",
+			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2015/07/samsung-ces15.jpg",
         		"title": "Samsung wants to act more like a startup",
 			"description": "Samsung is looking to reform its working culture in a bid to foster innovation. With the smartphone segment plateauing, the South Korean manufacturer has announced that it will embrace startup culture, eschewing the top-down hierarchy it currently follows.<br><br>In a statement to Reuters, Samsung said:<br><br>We aim to reform our internal culture, execute as quickly as a startup company and push towards open communication and continuously innovate.<br><br>Samsung also mentions that the move will foster a dialogue between division heads and employees, as well as cutting down on internal meetings, simplifying reporting procedures, and creating better work-life balance for employees. However, it may take some time for the manufacturer — which employs over 300,000 people worldwide — to make tangible strides in this direction.<br><br>In the meantime, Samsung has launched an in-house incubator that lets employees <b>nurture their own creative business ideas</b>. Called Creative Lab, the division is responsible for products such as rink, a hand-motion VR controller that can be used with the Gear VR. More recently, C-Lab came up with the Entrim 4D headphones, which give you a sense of motion while viewing VR content by delivering electric signals to your inner ear.",
         		"date": "March 24, 2016",
