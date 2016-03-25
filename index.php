@@ -1,6 +1,15 @@
 {
 	"news": [
 		{
+			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/02/honor5x-london-8_0.jpg?itok=X0-5DcTI",
+			"title": "The Honor 5X is yours for just £149.99 today only",
+			"description": "It's Good Friday and that means we need some sweet deals to go with today's sunshine. Cue Ebuyer with the Honor 5X, which is available today for just £149.99. It's a solid smartphone for the price and is well worth checking out if you're seeking a new handset.<br><br>To remind you of included specifications, we're looking at a 5.5-inch Full HD display, Snapdragon 615 1.5GHz processor, 13MP main shooter (with 5MP front-facing selfie machine), as well as 2GB of RAM and 16GB of internal storage (with MicroSD expansion). The promotion saves you a good £40 off the original listing price, with silver, grey and gold available.",
+			"date": "March 25, 2016",
+			"createdBy": "Arjhay Delos Santos",
+			"sources": "http://www.androidcentral.com/honor-5x-yours-just-149-today-only",
+			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
+		},
+		{
 			"image": "http://phandroid.com/wp-content/uploads/2016/03/EarlyBird-screens-640x381.png",
 			"title": "EarlyBird puts your favorite Android News blogs in one app",
 			"description": "The world of Android News moves at a fast pace. Within minutes of something Android-related happening, dozens of websites have published the same story. If you follow a lot of Android websites (because you’re a fanatic like us), the same story will pop up in your feed multiple times. EarlyBird – News for Android aims to fix this problem by curating the news for you.<br><br>The magic behind EarlyBird is a team of experts that comb through the news so you don’t have to. They hand pick the best news stories 24/7 so you never see duplicates and you’re always getting the original source. Every article is given an accurate title, informative summary, and links to read more and follow the source. Many of the top Android and tech websites can be found in EarlyBird.<br><br>AnandTech<br>Android Authority<br>Android Central<br>Android Guys<br>Android Police<br>Arstechnica<br>DroidLife<br>Engadget<br>Phandroid<br>TechCrunch<br>The Verge<br>Wall Street Journal<br>/r/Android<br>Much more!<br><br>What makes EarlyBird even more powerful is the community of users like you. Breaking News stories are displayed in a Tinder-like card format. You can swipe up/right to “like” a story, or swipe down/left to skip it. Tap on a card to read more about it and find the appropriate links. All you need to participate is the Google account that you’re already signed in with.<br><br>EarlyBird is still in beta. In the future, you’ll be able to do things like leave comments on stories. Everything you see in the EarlyBird app can also be viewed on the web over at the News section of AndroidForums.com. If you’re a diehard Android fan, this is the only app you need. Download EarlyBird for free today!",
