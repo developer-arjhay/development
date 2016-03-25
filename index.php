@@ -1,6 +1,15 @@
 {
 	"news": [
 		{
+			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/03/color-effex-4-2.jpg?itok=YxiZWbxv",
+			"title": "Google's Nik Collection of desktop photo editing plug-ins is now free",
+			"description": "Google has announced that its Nik Collection of photo editing plug-ins are now available for free. Google says that the decision to make the collection free came about as a result of the company shifting focus to its set of mobile photo editing tools:<br><br><q>Photo enthusiasts all over the world use the Nik Collection to get the best out of their images every day. As we continue to focus our long-term investments in building incredible photo editing tools for mobile, including Google Photos and Snapseed, we've decided to make the Nik Collection desktop suite available for free, so that now anyone can use it.</q><br><br>You may recall, the collection of desktop photo editing plug-ins came under Google's purview when the search giant acquired Snapseed developer Nik Software in 2012. In all, it includes seven plug-ins for desktop programs like Photoshop, Lightroom and Aperture.<br><br>For those who purchased the plug-ins prior to today, Google says that it will automatically start issuing refunds in the coming days. In the meantime, you can check out and download the full collection for free now.</q>",
+			"date": "March 24, 2016",
+			"createdBy": "Arjhay Delos Santos",
+			"sources": "http://www.androidcentral.com/google-makes-nik-collection-desktop-photo-editing-plug-ins-free",
+			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
+		},
+		{
 			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/02/galaxy-note-5-home-screen-full.jpg?itok=RKNn0cc0",
 			"title": "Sprint kicks off Marshmallow rollout for the Galaxy Note 5 [Update: Note 4 too]",
 			"description": "Sprint has kicked off the Marshmallow rollout for the Samsung Galaxy Note 5. While this update bumps the phablet up to Android 6.0, we're also looking at a new version of TouchWiz and more. It's quite the changelog so if you're unprepared for Marshmallow, be ready for a revamped experience on your Note.<br><br>Fear not if you haven't been notified on the Note 5 just yet as Marshmallow should hit the device soon. You can check manually by heading into the settings area.",
