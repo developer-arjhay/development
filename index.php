@@ -8,7 +8,8 @@
 			"createdBy": "Arjhay Delos Santos",
 			"sources": "http://www.androidcentral.com/lg-ordered-pay-35-million-damages-core-wireless-over-patent-violations",
 			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
-			"videoId": ""
+			"videoId": "",
+			"settingstitle": "Settings"
 		},
 		{
 			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/03/raspberry-pi-alexa-amazon.jpg",
@@ -18,7 +19,8 @@
 			"createdBy": "Arjhay Delos Santos",
 			"sources": "http://www.androidcentral.com/amazon-teaches-you-how-build-alexa-powered-device-raspberry-pi",
 			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
-			"videoId": ""
+			"videoId": "",
+			"settingstitle": "Settings"
 		},
 		{
 			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/02/honor5x-london-8_0.jpg",
@@ -28,7 +30,8 @@
 			"createdBy": "Arjhay Delos Santos",
 			"sources": "http://www.androidcentral.com/honor-5x-yours-just-149-today-only",
 			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
-			"videoId": "mTQqJ_ZWmIg"
+			"videoId": "mTQqJ_ZWmIg",
+			"settingstitle": "Settings"
 		},
 		{
 			"image": "http://phandroid.com/wp-content/uploads/2016/03/EarlyBird-screens-640x381.png",
@@ -38,7 +41,8 @@
 			"createdBy": "Arjhay Delos Santos",
 			"sources": "http://phandroid.com/2016/03/24/earlybird-android-news-app/",
 			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
-			"videoId": ""
+			"videoId": "",
+			"settingstitle": "Settings"
 		},
 		{
 			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/01/snapchat-nexus-6p-lohin-hero.jpg",
@@ -48,7 +52,8 @@
 			"createdBy": "Arjhay Delos Santos",
 			"sources": "http://www.androidcentral.com/snapchat-reportedly-acquires-bitstrips-around-100-million",
 			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
-			"videoId": ""
+			"videoId": "",
+			"settingstitle": "Settings"
 		},
 		{
 			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/03/color-effex-4-2.jpg",
@@ -58,7 +63,8 @@
 			"createdBy": "Arjhay Delos Santos",
 			"sources": "http://www.androidcentral.com/google-makes-nik-collection-desktop-photo-editing-plug-ins-free",
 			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
-			"videoId": ""
+			"videoId": "",
+			"settingstitle": "Settings"
 		},
 		{
 			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/02/galaxy-note-5-home-screen-full.jpg",
@@ -68,7 +74,8 @@
 			"createdBy": "Arjhay Delos Santos",
 			"sources": "http://www.androidcentral.com/sprint-rolling-out-marshmallow-galaxy-note-5",
 			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
-			"videoId": ""
+			"videoId": "",
+			"settingstitle": "Settings"
 		},
 		{
 			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2015/07/samsung-ces15.jpg",
@@ -78,7 +85,8 @@
         		"createdBy": "Arjhay Delos Santos",
         		"sources": "http://www.androidcentral.com/samsung-wants-act-more-startup",
         		"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
-        		"videoId": ""
+        		"videoId": "",
+			"settingstitle": "Settings"
 		},
 		{
 			"image": "http://ichef-1.bbci.co.uk/news/660/cpsprodpb/A2EE/production/_88901714_968be7d5-43c6-4514-9057-c8377067db63.jpg",
@@ -88,7 +96,8 @@
         		"createdBy": "Arjhay Delos Santos",
         		"sources": "http://www.bbc.com/news/technology-35874420",
         		"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
-        		"videoId": ""
+        		"videoId": "",
+			"settingstitle": "Settings"
 		},
 		{
 			"image": "http://www.androidauthority.com/wp-content/uploads/2016/03/Google-Search-teaser-840x472.jpg",
@@ -98,7 +107,8 @@
 			"createdBy": "Arjhay Delos Santos",
 			"sources": "http://www.androidauthority.com/google-search-getting-new-voice-681707/",
 			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
-			"videoId": ""
+			"videoId": "",
+			"settingstitle": "Settings"
 		}
 	]
 }
