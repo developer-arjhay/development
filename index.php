@@ -1,6 +1,16 @@
 {
 	"news": [
 		{
+			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/03/raspberry-pi-alexa-amazon.jpg",
+			"title": "Amazon teaches you how to build an Alexa-powered device with a Raspberry Pi",
+			"description": "Amazon has published a guide for how people can build and test their own device powered by its Alexa Voice Service, which allows hardware makers to build its virtual assistant into their devices. With this new guide, Amazon tells you how to get Alexa Voice Service up and running with a Raspberry Pi.<br><br>From Amazon's GitHub page:<br><br>This project demonstrates how to access and test the Alexa Voice Service using a Java client (running on a Raspberry Pi), and a Node.js server. You will be using the Node.js server to get a Login with Amazon authorization code by visiting a website using your computer's (Raspberry Pi in this case) web browser.<br><br>This guide provides step-by-step instructions for obtaining the sample code, the dependencies, and the hardware you need to get the reference implementation running on your Pi.<br><br>Of course, to get started, you'll need a Raspberry Pi 2 circuit board, which you can find on Amazon for about $37. You'll also need additional hardware, including a microSD card, a micro-USB power cable, and a microphone. Once you've got everything set up, you'll be able to request music playback, set an alarm, ask general knowledge questions, and more.",
+			"date": "March 25, 2016",
+			"createdBy": "Arjhay Delos Santos",
+			"sources": "http://www.androidcentral.com/amazon-teaches-you-how-build-alexa-powered-device-raspberry-pi",
+			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
+			"videoId": ""
+		},
+		{
 			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/02/honor5x-london-8_0.jpg",
 			"title": "The Honor 5X is yours for just £149.99 today only",
 			"description": "It's Good Friday and that means we need some sweet deals to go with today's sunshine. Cue Ebuyer with the Honor 5X, which is available today for just £149.99. It's a solid smartphone for the price and is well worth checking out if you're seeking a new handset.<br><br>To remind you of included specifications, we're looking at a 5.5-inch Full HD display, Snapdragon 615 1.5GHz processor, 13MP main shooter (with 5MP front-facing selfie machine), as well as 2GB of RAM and 16GB of internal storage (with MicroSD expansion). The promotion saves you a good £40 off the original listing price, with silver, grey and gold available.",
