@@ -1,6 +1,16 @@
 {
 	"news": [
 		{
+			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2015/06/lg-g4-33.jpg",
+			"title": "LG ordered to pay $3.5 million in damages to Core Wireless over patent violations",
+			"description": "Core Wireless, a company which holds numerous patents for 2G, 3G, and 4G LTE network technologies, has been awarded $3.5 million in damages after a jury found the LG violated two patents owned by the company. The patents concerned smartphone user interfaces, and the jury awarded Core Wireless $0.10 in damages per unit.<br><br>From Core Wireless:<br><br>Core Wireless alleged that most of LG's recent smartphones, including its leading LG G4 model, infringe two Core Wireless patents. The jury determined that the patents are infringed and not invalid and awarded Core Wireless past damages based on a reasonable royalty of $0.10 cents per unit, or $3.5 million.<br><br>Additionally, Core will ask the judge to order LG to pay a $0.10 per unit royalty on all future sales on infringing smartphones for the life of the patent, which ends in 2027.",
+			"date": "March 25, 2016",
+			"createdBy": "Arjhay Delos Santos",
+			"sources": "http://www.androidcentral.com/lg-ordered-pay-35-million-damages-core-wireless-over-patent-violations",
+			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
+			"videoId": ""
+		},
+		{
 			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/03/raspberry-pi-alexa-amazon.jpg",
 			"title": "Amazon teaches you how to build an Alexa-powered device with a Raspberry Pi",
 			"description": "Amazon has published a guide for how people can build and test their own device powered by its Alexa Voice Service, which allows hardware makers to build its virtual assistant into their devices. With this new guide, Amazon tells you how to get Alexa Voice Service up and running with a Raspberry Pi.<br><br>From Amazon's GitHub page:<br><br>This project demonstrates how to access and test the Alexa Voice Service using a Java client (running on a Raspberry Pi), and a Node.js server. You will be using the Node.js server to get a Login with Amazon authorization code by visiting a website using your computer's (Raspberry Pi in this case) web browser.<br><br>This guide provides step-by-step instructions for obtaining the sample code, the dependencies, and the hardware you need to get the reference implementation running on your Pi.<br><br>Of course, to get started, you'll need a Raspberry Pi 2 circuit board, which you can find on Amazon for about $37. You'll also need additional hardware, including a microSD card, a micro-USB power cable, and a microphone. Once you've got everything set up, you'll be able to request music playback, set an alarm, ask general knowledge questions, and more.",
