@@ -110,10 +110,5 @@
 			"videoId": "",
 			"settingstitle": "Settings"
 		}
-	],
-	"arjhay": [
-		{
-			"settingstitle": "Arjhay"
-		}
 	]
 }
