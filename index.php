@@ -7,7 +7,8 @@
 			"date": "March 25, 2016",
 			"createdBy": "Arjhay Delos Santos",
 			"sources": "http://www.androidcentral.com/honor-5x-yours-just-149-today-only",
-			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
+			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
+			"videoId": "fhWaJi1Hsfo"
 		},
 		{
 			"image": "http://phandroid.com/wp-content/uploads/2016/03/EarlyBird-screens-640x381.png",
@@ -16,7 +17,8 @@
 			"date": "March 24, 2015",
 			"createdBy": "Arjhay Delos Santos",
 			"sources": "http://phandroid.com/2016/03/24/earlybird-android-news-app/",
-			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
+			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
+			"videoId": ""
 		},
 		{
 			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/01/snapchat-nexus-6p-lohin-hero.jpg",
@@ -25,7 +27,8 @@
 			"date": "March 24, 2016",
 			"createdBy": "Arjhay Delos Santos",
 			"sources": "http://www.androidcentral.com/snapchat-reportedly-acquires-bitstrips-around-100-million",
-			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
+			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
+			"videoId": ""
 		},
 		{
 			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/03/color-effex-4-2.jpg",
@@ -34,7 +37,8 @@
 			"date": "March 24, 2016",
 			"createdBy": "Arjhay Delos Santos",
 			"sources": "http://www.androidcentral.com/google-makes-nik-collection-desktop-photo-editing-plug-ins-free",
-			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
+			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
+			"videoId": ""
 		},
 		{
 			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2016/02/galaxy-note-5-home-screen-full.jpg",
@@ -43,7 +47,8 @@
 			"date": "March 24, 2016",
 			"createdBy": "Arjhay Delos Santos",
 			"sources": "http://www.androidcentral.com/sprint-rolling-out-marshmallow-galaxy-note-5",
-			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
+			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
+			"videoId": ""
 		},
 		{
 			"image": "http://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2015/07/samsung-ces15.jpg",
@@ -52,7 +57,8 @@
         		"date": "March 24, 2016",
         		"createdBy": "Arjhay Delos Santos",
         		"sources": "http://www.androidcentral.com/samsung-wants-act-more-startup",
-        		"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
+        		"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
+        		"videoId": ""
 		},
 		{
 			"image": "http://ichef-1.bbci.co.uk/news/660/cpsprodpb/A2EE/production/_88901714_968be7d5-43c6-4514-9057-c8377067db63.jpg",
@@ -61,7 +67,8 @@
         		"date": "March 23, 2016",
         		"createdBy": "Arjhay Delos Santos",
         		"sources": "http://www.bbc.com/news/technology-35874420",
-        		"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
+        		"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
+        		"videoId": ""
 		},
 		{
 			"image": "http://www.androidauthority.com/wp-content/uploads/2016/03/Google-Search-teaser-840x472.jpg",
@@ -70,7 +77,8 @@
 			"date": "March 23, 2016",
 			"createdBy": "Arjhay Delos Santos",
 			"sources": "http://www.androidauthority.com/google-search-getting-new-voice-681707/",
-			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg"
+			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
+			"videoId": ""
 		}
 	]
 }
