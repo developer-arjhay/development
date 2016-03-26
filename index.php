@@ -8,7 +8,7 @@
 			"createdBy": "Arjhay Delos Santos",
 			"sources": "http://www.androidcentral.com/honor-5x-yours-just-149-today-only",
 			"avatar": "https://raw.githubusercontent.com/developer-arjhay/development/master/avatar/arjhaydelossantos.jpg",
-			"videoId": "fhWaJi1Hsfo"
+			"videoId": "mTQqJ_ZWmIg"
 		},
 		{
 			"image": "http://phandroid.com/wp-content/uploads/2016/03/EarlyBird-screens-640x381.png",
