@@ -1,0 +1,5 @@
+Satisfy all
+Order allow,deny
+Allow from all
+
+DirectoryIndex  index.html  index.php  /h5ai/public/index.php
